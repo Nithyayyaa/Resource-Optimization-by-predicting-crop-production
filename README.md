@@ -1,0 +1,2 @@
+# Resource-Optimization-by-predicting-crop-production
+The objective of this project is to the concept of data science and machine learning to predict crop production which will help in allocating resources to these farms. In this project, we will focus on Tobacco production which is one of the most important cash crops in India and is used in a variety of products like cigars, cigarettes, and pipes.
